@@ -1,0 +1,46 @@
+/* 
+	white: #fffff5; 
+	purple: #37006e;
+	green: #004204;
+	pink: #d98a98;
+*/
+
+@font-face {
+	font-family: Spectral;
+	src: url('../fonts/Spectral/Spectral-Regular.ttf');
+}
+
+body {
+	margin: 0;
+	background-color: #fffff5;
+	font-family: Spectral, serif;
+}
+
+.bg-purple {
+	background-color: #37006e;
+}
+
+.bg-pink {
+	background-color: #d98a98;
+}
+
+.white {
+	color: #fffff5;
+}
+
+.green {
+	color: #004204;
+}
+
+.rounded {
+	border-radius: 5px;
+}
+
+.sans-serif {
+	font-family: sans-serif;
+}
+
+section h2 {
+	text-align: center;
+	color: #004204;
+}
