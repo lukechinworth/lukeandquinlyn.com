@@ -16,6 +16,10 @@ body {
 	font-family: Spectral, serif;
 }
 
+.bg-white {
+	background-color: #fffff5;
+}
+
 .bg-purple {
 	background-color: #37006e;
 }
@@ -40,6 +44,7 @@ body {
 	font-family: sans-serif;
 }
 
+/* sections */
 section h2 {
 	text-align: center;
 	color: #004204;
