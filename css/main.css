@@ -40,8 +40,8 @@ body {
 	border-radius: 5px;
 }
 
-.sans-serif {
-	font-family: sans-serif;
+.vh100 {
+	height: 100vh;
 }
 
 /* sections */
