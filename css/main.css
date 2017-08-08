@@ -5,15 +5,10 @@
 	pink: #d98a98;
 */
 
-@font-face {
-	font-family: Spectral;
-	src: url('../fonts/Spectral/Spectral-Regular.ttf');
-}
-
 body {
 	margin: 0;
 	background-color: #fffff5;
-	font-family: Spectral, serif;
+	font-family: 'Spectral', serif;
 }
 
 .bg-white {
@@ -56,4 +51,8 @@ section {
 section h2 {
 	text-align: center;
 	color: #004204;
+}
+
+a {
+	color: black;
 }
